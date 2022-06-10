@@ -1,0 +1,10 @@
+2022-06-10 10:21:44,925 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-10 11:08:23,109 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\pom.xml
+2022-06-10 11:08:24,431 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.morningstar:01_JpaStarter:0.0.1-SNAPSHOT @ C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\pom.xml.
+2022-06-10 11:08:25,830 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_JpaStarter/src/main/java
+2022-06-10 11:08:25,839 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_JpaStarter/src/test/java
+2022-06-10 11:08:26,777 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-06-10 11:08:28,255 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 11:08:28,256 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\main\resources
+2022-06-10 11:08:28,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 11:08:28,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\test\resources
