@@ -8,3 +8,7 @@
 2022-06-10 11:08:28,256 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\main\resources
 2022-06-10 11:08:28,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-10 11:08:28,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\test\resources
+2022-06-10 11:13:20,551 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 11:13:20,551 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\main\resources
+2022-06-10 11:13:20,554 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-10 11:13:20,554 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mmutthe\NewTraining\JPA\Workspace\01_JpaStarter\src\test\resources
