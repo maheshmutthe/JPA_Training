@@ -1,0 +1,9 @@
+Drop Table Student;
+
+Create Table Student
+(
+	Student_Id Number(5) Primary Key,
+	Student_Name varchar2(50) not null,
+	Student_Score Number(3)
+);
+
